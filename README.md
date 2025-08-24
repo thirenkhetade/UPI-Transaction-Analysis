@@ -19,5 +19,3 @@ This project presents an **interactive Power BI dashboard** designed to analyze 
 
 ## Dashboard Preview
 *(Add screenshot here after uploading the dashboard image)*  
-
-## Repository Structure
