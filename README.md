@@ -17,5 +17,3 @@ This project presents an **interactive Power BI dashboard** designed to analyze 
 - Supports **data-driven decisions** through interactive visuals.  
 - Provides flexibility with **slicers and filters** for customized views.  
 
-## Dashboard Preview
-*(Add screenshot here after uploading the dashboard image)*  
